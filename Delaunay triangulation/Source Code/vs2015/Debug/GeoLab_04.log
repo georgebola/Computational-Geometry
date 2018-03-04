@@ -1,0 +1,6 @@
+﻿  SceneTriangulation.cpp
+SceneTriangulation.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  GeoLab_04.vcxproj -> C:\Users\georg\Desktop\3d\Delaunay triangulation\Source Code\vs2015\Debug\GeoLab_04-Triangulation.exe
+  C:\VVRFramework\lib\platforms\qwindows.dll
+  C:\VVRFramework\lib\platforms\qwindowsd.dll
+  2 File(s) copied
