@@ -1,0 +1,4 @@
+﻿  SceneIntersections.cpp
+SceneIntersections.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  GeoLab_03.vcxproj -> C:\Users\georg\Desktop\3d\ERG 3\GeoLab_2017_03\vs2015\Debug\GeoLab_03-Intersections.exe
+  0 File(s) copied
