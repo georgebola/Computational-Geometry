@@ -1,0 +1,6 @@
+﻿  SceneConvexHull.cpp
+SceneConvexHull.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  GeoLab_02.vcxproj -> C:\Users\georg\Desktop\3d\GeoLab_2017_02\vs2015\Debug\GeoLab_02-ConvexHull.exe
+  C:\VVRFramework\lib\platforms\qwindows.dll
+  C:\VVRFramework\lib\platforms\qwindowsd.dll
+  2 File(s) copied
